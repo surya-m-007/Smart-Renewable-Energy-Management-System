@@ -1,0 +1,28 @@
+
+===== Test 2 v2: 5-level CHB inverter (Lf 2.0 mH, Cf 20 uF, f_res 796 Hz) =====
+damped_full    Rd  2.0 ohm, Rload  11.8 ohm: V1 319.3 V pk (225.8 V rms), I1 19.14 A rms, P 4.32 kW
+               peak |vo| steady 325.7 V, incl. start-up 325.7 V
+               THD_v (to 50th)  0.13 %,  THD_v (to 10 kHz)  1.57 %,  THD_i (to 50th)  0.13 %
+               unfiltered 5-level: THD to 50th 0.20 %, to 10 kHz  34.0 %
+undamped_full  Rd  0.0 ohm, Rload  11.8 ohm: V1 319.3 V pk (225.8 V rms), I1 19.14 A rms, P 4.32 kW
+               peak |vo| steady 324.2 V, incl. start-up 324.2 V
+               THD_v (to 50th)  0.14 %,  THD_v (to 10 kHz)  1.30 %,  THD_i (to 50th)  0.14 %
+               unfiltered 5-level: THD to 50th 0.20 %, to 10 kHz  34.0 %
+damped_light   Rd  2.0 ohm, Rload 200.0 ohm: V1 321.2 V pk (227.1 V rms), I1  1.14 A rms, P 0.26 kW
+               peak |vo| steady 329.7 V, incl. start-up 330.3 V
+               THD_v (to 50th)  0.23 %,  THD_v (to 10 kHz)  1.85 %,  THD_i (to 50th)  0.23 %
+               unfiltered 5-level: THD to 50th 0.20 %, to 10 kHz  33.9 %
+
+===== Test 2 v2: 5-level CHB inverter (Lf 2.0 mH, Cf 20 uF, f_res 796 Hz) =====
+damped_full    Rd  2.0 ohm, Rload  11.8 ohm: V1 319.3 V pk (225.8 V rms), I1 19.14 A rms, P 4.32 kW
+               peak |vo| steady 325.7 V, incl. start-up 325.7 V
+               THD_v (to 50th)  0.13 %,  THD_v (to 10 kHz)  1.57 %,  THD_i (to 50th)  0.13 %
+               unfiltered 5-level: THD to 50th 0.20 %, to 10 kHz  34.0 %
+undamped_full  Rd  0.0 ohm, Rload  11.8 ohm: V1 319.3 V pk (225.8 V rms), I1 19.14 A rms, P 4.32 kW
+               peak |vo| steady 324.2 V, incl. start-up 324.2 V
+               THD_v (to 50th)  0.14 %,  THD_v (to 10 kHz)  1.30 %,  THD_i (to 50th)  0.14 %
+               unfiltered 5-level: THD to 50th 0.20 %, to 10 kHz  34.0 %
+damped_light   Rd  2.0 ohm, Rload 200.0 ohm: V1 321.2 V pk (227.1 V rms), I1  1.14 A rms, P 0.26 kW
+               peak |vo| steady 329.7 V, incl. start-up 330.3 V
+               THD_v (to 50th)  0.23 %,  THD_v (to 10 kHz)  1.85 %,  THD_i (to 50th)  0.23 %
+               unfiltered 5-level: THD to 50th 0.20 %, to 10 kHz  33.9 %
