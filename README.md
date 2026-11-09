@@ -31,4 +31,5 @@ A MATLAB/Simulink-based Smart Renewable Energy Management System with Adaptive L
 
 ## Authors
 Mellacheruvu Sada Siva Surya Srinivas
+
 Amrita Vishwa Vidyapeetham
